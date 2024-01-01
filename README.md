@@ -21,6 +21,17 @@ Swiftの学習期間は１ヶ月程度になります。
 ### ライブラリ
 + Realm Swift
 
+
+## 実装画面
+| タスク一覧画面 | タスク追加画面 |
+----|---- 
+| ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) | ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) |
+
+| タスク一覧拡大画面 | タスク拡大画面 |
+----|---- 
+| ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) | ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) |
+
+
 ## 実装機能（ver1）
 + タスク追加
 + タスク削除

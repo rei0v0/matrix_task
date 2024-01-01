@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-matrix_todo/Pods-matrix_todo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework

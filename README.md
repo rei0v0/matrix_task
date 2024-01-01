@@ -1,6 +1,6 @@
 ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695)
 
-# MatrixTask
+# MatrixTask（リリースはしていません。今後リリース予定です。）
 
 ## 概要
 このアプリではタスクを重要度と緊急度で分類し、タスクの優先順位を可視化することができます。

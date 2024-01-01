@@ -25,11 +25,11 @@ Swiftの学習期間は１ヶ月程度になります。
 ## 実装画面
 | タスク一覧画面 | タスク追加画面 |
 ----|---- 
-| ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) | ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) |
+| ![image1](https://github.com/rei0v0/matrix_task/assets/130533596/2846ce3e-174b-43f4-8e78-29067e5872a7) | ![image2](https://github.com/rei0v0/matrix_task/assets/130533596/4e31494f-e124-43d8-ae7f-a5276813faf7) |
 
 | タスク一覧拡大画面 | タスク拡大画面 |
 ----|---- 
-| ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) | ![MatrixTask_header_image](https://github.com/rei0v0/matrix_task/assets/130533596/7c097d49-9b7c-4123-a399-e0c494eaf695) |
+| ![image3](https://github.com/rei0v0/matrix_task/assets/130533596/7647764f-c638-4e7d-a7b2-624c750e5687) | ![image4](https://github.com/rei0v0/matrix_task/assets/130533596/dedc7fdd-a7b8-4bf8-b447-86b86824ba0a) |
 
 
 ## 実装機能（ver1）
